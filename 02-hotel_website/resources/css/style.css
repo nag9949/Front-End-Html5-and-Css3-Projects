@@ -80,8 +80,17 @@ p {
 }
 
 .bg-primary {
-  background: #333;
-  color: #f7c08a;
+  background: #f0c090;
+  color: #444;
+}
+
+.bg-primary:hover {
+  background: rgb(133, 129, 129);
+  color: #f4f4f4;
+}
+
+.clr {
+  clear: both;
 }
 
 /* Navbar */
@@ -151,9 +160,12 @@ p {
 
 #home-info .info-img {
   float: left;
-  background: url('../img/photo-1.jpg') no-repeat;
+  background: url('../img/photo-1.1.jpg') no-repeat;
   width: 50%;
   min-height: 100%;
+  image-rendering: auto;
+  background-size: cover;
+
 }
 
 #home-info .info-content {
@@ -167,4 +179,25 @@ p {
 
 #home-info .info-content p {
   padding-bottom: 30px;
+}
+
+/* Features */
+.box {
+  float: left;
+  width: 33.3%;
+  padding: 50px;
+  text-align: center;
+}
+
+.box i {
+  margin-bottom: 10px;
+}
+
+
+/* Footer */
+#main-footer {
+  text-align: center;
+  background: #444;
+  color: #fff;
+  padding: 20px;
 }
