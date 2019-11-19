@@ -93,6 +93,23 @@ p {
   clear: both;
 }
 
+.large-heading {
+  font-size: 40px;
+}
+
+/* Padding - Reusable component cls */
+.py-1 {
+  padding: 10px 0;
+}
+
+.py-2 {
+  padding: 20px 0;
+}
+
+.py-3 {
+  padding: 30px 0;
+}
+
 /* Navbar */
 #navbar {
   background: #333;
@@ -193,6 +210,81 @@ p {
   margin-bottom: 10px;
 }
 
+/* Home page-Ends */
+#about-info .info-left {
+  float: left;
+  width: 50%;
+  min-height: 100%;
+}
+
+#about-info .info-right {
+  float: right;
+  width: 50%;
+  min-height: 100%;
+}
+
+#about-info .info-right img {
+  display: block;
+  margin: auto;
+  width: 70%;
+  border-radius: 15%;
+
+}
+
+/* Testimonials */
+#testimonials {
+  height: 600px;
+  background: url('../img/test1.jpg') no-repeat center center/cover;
+  padding-top: 70px;
+}
+
+#testimonials h2 {
+  color: rgb(45, 97, 131);
+  text-align: center;
+  padding-bottom: 60px;
+}
+
+#testimonials .testimonial {
+  padding: 20px;
+  margin-bottom: 46px;
+  border-radius: 6px;
+  opacity: 0.91;
+}
+
+#testimonials .testimonial img {
+  width: 100px;
+  float: left;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
+/* Contact-Form */
+#contact-form .form-group {
+  margin-bottom: 20px;
+}
+
+#contact-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+#contact-form input,
+#contact-form textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+#contact-form textarea {
+  height: 200px;
+}
+
+
+#contact-form input:focus,
+#contact-form textarea:focus {
+  outline: none;
+  border-color: #f7c08a;
+}
 
 /* Footer */
 #main-footer {
