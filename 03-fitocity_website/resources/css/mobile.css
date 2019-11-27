@@ -1,0 +1,61 @@
+/* for Ipad { max-width: 768px  } */
+#what .items {
+  display: block;
+  padding: 1rem;
+}
+
+/* Aligning the items to left { Section: What } */
+#what .items .item {
+  display: flex;
+  text-align: left;
+}
+
+/* Positioning icons  */
+#what .items .item i {
+  margin-right: 1.3rem;
+  align-self: center;
+  margin-bottom: 0;
+  padding: 1.1rem;
+}
+
+/* Section: { Who we are } */
+#who .who-img {
+  background: url('../img/people3.jpg') no-repeat center center/cover;
+}
+
+/*  */
+/* for SmartPhones { max-width: 500px  } */
+@media screen and (max-width:500px) {
+
+  /* Section: { navbar } */
+  #navbar {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  #navbar .logo {
+    margin-bottom: 0.5rem;
+    text-align: center;
+  }
+
+  #navbar ul {
+    padding: 0.5rem;
+  }
+
+  #who {
+    display: block;
+  }
+
+  #who .who-img {
+    display: none;
+  }
+
+  #contact {
+    display: block;
+  }
+
+  #contact .map {
+    border-top: 2px solid #333;
+    height: 50vh;
+  }
+}
