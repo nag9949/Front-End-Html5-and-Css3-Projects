@@ -16,4 +16,4 @@ my first html5 and css3 project and Each and every line of the code written by m
 03-fitocity_website
  my fitocity { my fitness website basic structures was developed stay tuned for more features :) }
 
-03-fitocity_website----->https://fitocity.netlify.com
+03-Website----->https://fitocity.netlify.com
