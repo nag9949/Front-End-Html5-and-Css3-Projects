@@ -6,7 +6,12 @@ my first html5 and css3 project and Each and every line of the code written by m
 
 01-Website----> https://foodxpress4u.netlify.com/
 ------------------------------------------------------------------------------------------------------------------------------
+
 02-hotel_website
  This is my dummy hotel website project Learned so many fundamentals in while developing this project
 
 02-Website---->https://hotelnag.netlify.com/
+------------------------------------------------------------------------------------------------------------------------------
+
+03-fitocity_website
+ my fitocity { my fitness website basic structures was developed stay tuned for more features :) }
