@@ -23,3 +23,11 @@ Tech stack used: Html5 and css3 and a little bit of jquery.
 fitocity { my fitness-website basic structures was developed stay tuned for more features :) }
 
 03-Website----->https://fitocity.netlify.com
+------------------------------------------------------------------------------------------------------------------------------
+
+04-news_forest  { Responsive web design has done }
+Tech stack used: Html5 and css3 { Grid }.
+
+This is my news website.
+
+04-Website---->https://newsforest.netlify.com/
