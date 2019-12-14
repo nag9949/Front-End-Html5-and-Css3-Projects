@@ -6,7 +6,11 @@
 
 #main-nav .container {
   grid-template-columns: 1fr;
-  gap: 1.3rem;
+  gap: 1rem;
+}
+
+#main-nav .logo {
+  width: 160px;
 }
 
 #main-nav .logo,
@@ -14,8 +18,12 @@
   justify-self: center;
 }
 
+#main-nav ul {
+  margin-bottom: 1rem;
+}
+
 #main-nav ul li a {
-  padding: 0.5rem;
+  padding: 0.6rem;
 }
 
 /* Home Articles */

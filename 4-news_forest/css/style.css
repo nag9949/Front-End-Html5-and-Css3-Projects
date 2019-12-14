@@ -262,8 +262,8 @@ h6 {
 }
 
 #main-nav ul {
-  justify-self: end;
   display: flex;
+  justify-self: end;
 }
 
 #main-nav ul li a {
@@ -291,16 +291,19 @@ h6 {
   margin-right: 0.5rem;
 }
 
-#main-nav .social .facebook:hover{
+#main-nav .social .facebook:hover {
   color: #1877f2;
 }
-#main-nav .social .youtube:hover{
+
+#main-nav .social .youtube:hover {
   color: #f21818;
 }
-#main-nav .social .instagram:hover{
+
+#main-nav .social .instagram:hover {
   color: #c32aa3;
 }
-#main-nav .social .twitter:hover{
+
+#main-nav .social .twitter:hover {
   color: #1da1f2;
 }
 
