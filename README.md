@@ -9,7 +9,7 @@ my first html5 and css3 project and Each and every line of the code written by m
 01-Website----> https://foodxpress4u.netlify.com/
 ------------------------------------------------------------------------------------------------------------------------------
 
-02-hotel_website  { Responsive web design has done }
+02-hotel_website-project  { Responsive web design has done }
 Tech stack used: Html5 and css3.
 
 This is my dummy hotel website project Learned so many fundamentals in while developing this project
@@ -17,7 +17,7 @@ This is my dummy hotel website project Learned so many fundamentals in while dev
 02-Website---->https://hotelnag.netlify.com/
 ------------------------------------------------------------------------------------------------------------------------------
 
-03-fitocity_website { Responsive web design has done }
+03-fitocity_website-project { Responsive web design has done }
 Tech stack used: Html5 and css3 and a little bit of jquery.
 
 fitocity { my fitness-website basic structures was developed stay tuned for more features :) }
@@ -25,7 +25,7 @@ fitocity { my fitness-website basic structures was developed stay tuned for more
 03-Website----->https://fitocity.netlify.com
 ------------------------------------------------------------------------------------------------------------------------------
 
-04-news_forest  { Responsive web design has done }
+04-news_forest-project  { Responsive web design has done }
 Tech stack used: Html5 and css3 { Grid }.
 
 This is my news website.
