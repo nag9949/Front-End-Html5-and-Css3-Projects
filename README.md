@@ -3,7 +3,8 @@ all front-end projects are available here ):
 
 01-FoodXpress4u-Project
 
-{ Responsive web design has done }
+{ added Responsive web design }.
+
 Tech stack used: Html5 and css3 and a little bit of jquery.
 
 01-Website----> https://foodxpress4u.netlify.com/
