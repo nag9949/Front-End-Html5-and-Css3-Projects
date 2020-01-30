@@ -218,4 +218,57 @@
     }
 
 
+    h1 {
+        font-size: 150%;
+    }
+
+    h2 {
+        font-size: 120%;
+    }
+
+    .logo {
+        height: 95px;
+        width: auto;
+        float: left;
+        margin-top: 10px;
+    }
+
+    .main-nav {
+        display: none;
+    }
+
+    .mobile-nav-icon {
+        /* float: right; */
+        display: inline-block;
+    }
+
+    .main-nav {
+        float: left;
+        margin-top: 35px;
+        margin-left: 15px;
+    }
+
+    .main-nav li {
+        display: block;
+    }
+
+    .main-nav li a:link,
+    .main-nav li a:visited {
+        display: block;
+        border: 0;
+        padding: 10px 0;
+        font-size: 90%;
+        margin-right: 10px;
+    }
+
+}
+
+
+
+/* --small phones : from 0 to 325px-- */
+@media only screen and (max-width: 325px) {
+    .space {
+        display: block;
+        margin-bottom: 10px;
+    }
 }
