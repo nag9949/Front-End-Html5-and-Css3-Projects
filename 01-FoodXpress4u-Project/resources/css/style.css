@@ -225,6 +225,9 @@ header {
 
 }
 
+.space {
+    display: none;
+}
 
 .hero-text-box {
     position: absolute;
