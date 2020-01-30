@@ -24,4 +24,4 @@ Tech:- Html5 and css3 and a little bit of jquery.{ Responsive web design has don
 Tech:- Html5 and css3 { Grid }.{ Responsive web design has done }.
 
 04-Website---->https://newsforest.netlify.com/
-
+------------------------------------------------------------------------------------------------------------------------------
