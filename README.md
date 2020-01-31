@@ -15,7 +15,7 @@ tech-stack:- Html5 and css3. { added (RWD) Responsive Web Design }.
 ------------------------------------------------------------------------------------------------------------------------------
 03-fitocity_website-project
 
-tech-stack:- Html5 and css3 and a little bit of jquery. { added (RWD) Responsive Web Design }.
+tech-stack:- Html5 and css3 { Flexbox } and a little bit of jquery. { added (RWD) Responsive Web Design }.
 
 03-Website----->https://fitocity.netlify.com
 ------------------------------------------------------------------------------------------------------------------------------
