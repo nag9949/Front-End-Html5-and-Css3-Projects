@@ -9,7 +9,7 @@
 
 html,
 body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   line-height: 1.7em;
 }
 
@@ -30,10 +30,10 @@ p {
 
 /* Utility-Classes */
 .container {
-  margin: auto;
   max-width: 1024px;
-  overflow: auto;
+  margin: auto;
   padding: 0 20px;
+  overflow: auto;
 }
 
 .text-primary {
@@ -47,11 +47,12 @@ p {
 .btn {
   display: inline-block;
   font-size: 18px;
-  color: #fff;
   background: #333;
+  color: #fff;
   padding: 13px 20px;
   border: none;
   cursor: pointer;
+  border-radius: 45px;
 }
 
 .btn:hover {
@@ -116,6 +117,8 @@ p {
   background: #333;
   color: #fff;
   overflow: auto;
+  position: sticky;
+  top: 0;
 }
 
 #navbar a {
@@ -128,9 +131,9 @@ p {
 }
 
 #navbar ul {
-  padding-top: 13px;
-  list-style: none;
   float: right;
+  list-style: none;
+  padding-top: 13px;
 }
 
 #navbar ul li {
@@ -151,7 +154,7 @@ p {
 
 /* Showcase */
 #showcase {
-  background: linear-gradient(rgb(0, 0, 0, 0.7), rgb(0, 0, 0, 0.7)), url('../img/showcase-1.jpg') no-repeat center center/cover;
+  background: linear-gradient(rgb(0, 0, 0, 0.6), rgb(0, 0, 0, 0.7)), url('../img/showcase-1.jpg') no-repeat center center/cover;
   height: 100vh;
 }
 
@@ -169,6 +172,7 @@ p {
 #showcase .showcase-content p {
   padding-bottom: 20px;
   line-height: 1.7em;
+  text-align: center;
 }
 
 /* Home-info ( Section ) */
@@ -178,7 +182,7 @@ p {
 
 #home-info .info-img {
   float: left;
-  background: url('../img/photo-1.1.jpg') no-repeat;
+  background: url('../img/photo-1.1.jpg') no-repeat center center;
   width: 50%;
   min-height: 100%;
   image-rendering: auto;
@@ -211,6 +215,7 @@ p {
   margin-bottom: 10px;
 }
 
+/* About */
 /* About page */
 #about-info .info-left {
   float: left;
@@ -227,7 +232,8 @@ p {
 #about-info .info-right img {
   display: block;
   margin: auto;
-  width: 70%;
+  width: 80%;
+  /* border-radius: 45px; */
   border-radius: 15%;
 
 }
@@ -249,7 +255,7 @@ p {
   padding: 20px;
   margin-bottom: 46px;
   border-radius: 6px;
-  opacity: 0.91;
+  opacity: 0.94;
 }
 
 #testimonials .testimonial img {
@@ -259,6 +265,7 @@ p {
   border-radius: 50%;
 }
 
+/* contact */
 /* Contact-Form */
 #contact-form .form-group {
   margin-bottom: 20px;
