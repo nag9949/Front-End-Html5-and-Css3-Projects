@@ -154,7 +154,7 @@ p {
 
 /* Showcase */
 #showcase {
-  background: linear-gradient(rgb(0, 0, 0, 0.6), rgb(0, 0, 0, 0.7)), url('../img/showcase-1.jpg') no-repeat center center/cover;
+  background: linear-gradient(rgb(0, 0, 0, 0.6), rgb(0, 0, 0, 0.7)), url('../img/showcase-1-min.jpg') no-repeat center center/cover;
   height: 100vh;
 }
 
@@ -182,7 +182,7 @@ p {
 
 #home-info .info-img {
   float: left;
-  background: url('../img/photo-1.1.jpg') no-repeat center center;
+  background: url('../img/photo-1.1-min.jpg') no-repeat center center;
   width: 50%;
   min-height: 100%;
   image-rendering: auto;
@@ -241,7 +241,7 @@ p {
 /* Testimonials */
 #testimonials {
   height: 100%;
-  background: url('../img/test1.jpg') no-repeat center center/cover;
+  background: url('../img/test1-min.jpg') no-repeat center center/cover;
   padding-top: 70px;
 }
 
