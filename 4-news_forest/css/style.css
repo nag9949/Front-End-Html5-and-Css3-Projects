@@ -318,7 +318,7 @@ h6 {
 
 #showcase::before {
   content: '';
-  background: url('../img/ft2.jpg') no-repeat center center/cover;
+  background: url('../img/ft2-min.jpg') no-repeat center center/cover;
   position: absolute;
   top: 0;
   left: 0;
