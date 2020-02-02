@@ -117,6 +117,7 @@ h6 {
   color: #fff;
   border: none;
   padding: 0.55rem 1.5rem;
+  border-radius: 5px;
 }
 
 .btn-light {
@@ -139,6 +140,8 @@ h6 {
 
 .btn:hover {
   opacity: 0.9;
+  background: crimson;
+  color: rgb(255, 255, 255);
 }
 
 /* this is fo { article } cls card */
@@ -270,6 +273,7 @@ h6 {
   padding: 0.75rem;
   font-weight: bold;
   margin-right: 0.5rem;
+  border-radius: 5px;
 }
 
 #main-nav ul li a.current {
@@ -278,8 +282,10 @@ h6 {
 }
 
 #main-nav ul li a:hover {
-  background: var(--light-color);
-  color: var(--dark-color);
+  /* background: var(--light-color);
+  color: var(--dark-color); */
+  background: rgb(8, 235, 186);
+  color: rgb(255, 255, 255);
 }
 
 #main-nav .social {
