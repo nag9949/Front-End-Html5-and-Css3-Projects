@@ -1,5 +1,6 @@
 # Front-End-Projects
-All front-end projects are available here ):
+
+Tutorial HELL :(
 
 01-FoodXpress4u-Project
 
